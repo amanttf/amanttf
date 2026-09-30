@@ -1,7 +1,10 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&center=true&width=435&lines=Welcome+to+my+GitHub!;I love broken biscuits; & Competetive Programming :)" alt="wave.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+broken+biscuits+%3A)" alt="Typing SVG" />
 </p>
-<img width="2048" height="1152" alt="ttfverse" src="https://github.com/user-attachments/assets/3f4ffdb7-eb2e-439c-b6d6-0d1472a31ef0" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af58664-d7db-4d1e-a342-60b7983f03d3" />
+
 
 
 
@@ -13,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/amanttf">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,react,git,github,postgres,gcp,postman,docker,linux&perline=7" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux&perline=4" alt="Skills Icons" />
   </a>
 </p>
 
